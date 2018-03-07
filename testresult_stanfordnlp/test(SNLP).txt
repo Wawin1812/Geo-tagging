@@ -1,0 +1,166 @@
+1 The URL is : http://jobs.careerone.com.au/l-canberra,-act.aspx
+111 words
+7 locations
+[Canberra, Australia, Canberra, Canberra, Canberra, Canberra, Canberra]
+time used: 12.00 seconds.
+Missed : ACT, Australian Capital Territory
+
+2 The URL is : http://www.theaustralian.com.au/news/latest-news/one-dead-after-sydney-bus-and-car-crash/news-story/affe35bfffdee50c0ea562f02aec6471
+345 words
+7 locations
+[Sydney, Londonderry Road, Queensland, Great Barrier Reef, Queensland, Great Barrier Reef, East Asia]
+time used: 12.00 seconds.
+Missed: Londonderry, South Korea 
+
+3 The URL is : http://www.theaustralian.com.au/business/markets
+491 words
+7 locations
+[US, Victoria, South Australia, Hazelwood, Victoria, Latrobe Valley, China]
+time used: 13.00 seconds.
+Missed: NSW
+
+4 The URL is : http://www.theaustralian.com.au/life/travel
+27 words
+0 locations
+[]
+time used: 10.00 seconds.
+Error: Can¡¯t be only 27 words.
+
+5 The URL is : http://www.australia.gov.au/information-and-services/public-safety-and-law
+204 words
+3 locations
+[Gazettes, Australia, Australia]
+time used: 11.00 seconds.
+Error: Gazattes
+
+6 The URL is : https://www.newamerica.org/our-story/
+630 words
+6 locations
+[New America, New America, New America, New America, America, New America]
+time used: 15.00 seconds.
+Error: New America
+
+7 The URL is : https://www.nytimes.com/2017/03/09/briefing/republican-party-cia-syria.html?rref=collection%2Fsectioncollection%2Famericas&action=click&contentCollection=americas&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront&_r=0
+610 words
+4 locations
+[London, Ireland, Kelela, U.S.]
+time used: 12.00 seconds.
+Missed: The United States, Texas, South Korea
+
+8 The URL is : https://www.nytimes.com/2017/03/09/world/asia/park-geun-hye-impeached-south-korea.html?action=click&contentCollection=Briefing&module=Trending&version=Full&region=Marginalia&pgtype=article
+1099 words
+36 locations
+[SEOUL, South Korea, Asia, Washington, North Korea, North Korea, North Korea, United States, China, Asia, Blue House, South Korea, South Korea, South Korea, South Korea, North Korea, South Korea, United States, China, North Korea, China, Washington, Philippines, Beijing, Washington, Beijing, China, South Korea, United States, South Korea, South Korea, Washington, Beijing, North Korea, Seoul, U.S.]
+time used: 15.00 seconds.
+GOOD
+
+9 The URL is : https://www.nytimes.com/2017/03/09/opinion/britain-the-immigration-nation.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-right-region&region=opinion-c-col-right-region&WT.nav=opinion-c-col-right-region
+1314 words
+36 locations
+[LONDON, London, East End, Docklands, Britain, Princelet Street, Ireland, Russia, Eastern Europe, Cable Street, Britain, Princelet Street, Bangladesh, Caribbean, Eastern Europe, New York, Lower East Side Tenement Museum, Britain, Britain, Brexit Britain, Britain, United States, Europe, Britain, England, America, Britain, Ellis Island, France, Britain, Britain, Britain, London, Princelet Street, Princelet Street, U.S.]
+time used: 15.00 seconds.
+Missed: North Ireland, North Korea
+
+10 The URL is : https://www.oracle.com/au/corporate/contact/index.html
+60 words
+0 locations
+[]
+time used: 10.00 seconds.
+Error: 500 Oracle Parkway (can¡¯t find)
+
+11 The URL is :https://www.facebook.com/coles/
+Can¡¯t process!!
+
+12 The URL is : http://www.wikihow.com/Play-Dominoes
+845 words
+1 locations
+[US]
+time used: 12.00 seconds.
+GOOD
+
+13 The URL is : http://roadsafety.transport.nsw.gov.au/speeding/speedcameras/current-locations.html
+171 words
+1 locations
+[Heathcote Road]
+time used: 12.00 seconds.
+Missed: NSW
+
+14 The URL is : http://www.smh.com.au/nsw
+67 words
+0 locations
+[]
+time used: 10.00 seconds.
+Error: can¡¯t process
+
+15 The URL is : http://www.smh.com.au/national/education/my-school-the-naplan-big-improvers-revealed-20170306-gus4wx.html
+556 words
+17 locations
+[NAPLAN, St. Anthony, Girraween, Uarbry, Sydney, Mortlake, Sydney, Liverpool Station, Sydney, Sydney, NAPLAN, St. Anthony, Girraween, ACARA, Dulwich Hill, Sydney, ACARA]
+time used: 14.00 seconds.
+Error: ACARAJ, school can¡¯t process
+
+16 The URL is : http://roadsafety.transport.nsw.gov.au/stayingsafe/index.html
+210 words
+0 locations
+[]
+time used: 10.00 seconds.
+Missed: NSW
+
+17 The URL is : http://edition.cnn.com/us
+78 words
+5 locations
+[U.S., U.S., US, U.S., U.S. U.S.]
+time used: 10.00 seconds.
+Missed: Great Lakes, Northeast
+
+18 The URL is : http://edition.cnn.com/china
+27 words
+4 locations
+[U.S., China, U.S., U.S. U.S.]
+Missed: Beijing, Shanghai, Hongkong
+
+19 The URL is : http://edition.cnn.com/2017/02/28/asia/china-gets-tough-on-dancing-grannies/index.html
+53 words
+6 locations
+[U.S., Beijing, China, China, U.S., U.S. U.S.]
+time used: 12.00 seconds.
+MIissed: Beijing(another)
+
+20 The URL is : http://www.bbc.com/news/world-asia-39202936
+431 words
+9 locations
+[South Korea, South Korea, Ms Park, South Korea, Seoul, South Korea, United States, North Korea, US]
+time used: 11.00 seconds.
+Error: Ms Park
+
+21 The URL is : http://www.bbc.com/news/world-europe-39227070
+334 words
+5 locations
+[Herne, Herne, Herne, North Korea, US]
+time used: 10.00 seconds.
+Missed: Bochum, German
+Error: some structure can¡¯t be processed
+
+22 The URL is : http://www.nba.com/news
+919 words
+2 locations
+[Houston, San Antonio]
+time used: 12.00 seconds.
+GOOD
+
+23 The URL is : http://www.cpaexam.com/how-to-become-a-cpa/
+Can¡¯t process!!
+24 The URL is : https://www.icaew.com/en/about-icaew/what-is-chartered-accountancy
+609 words
+6 locations
+[UK, London, Manchester, Sheffield, England, Wales]
+time used: 16.00 seconds.
+GOOD!
+
+25 The URL is : https://en.wikipedia.org/wiki/Dickson,_Australian_Capital_Territory
+232 words
+11 locations
+[Northbourne Avenue, Antill Street, Phillip Avenue, Majura Avenue, Limestone Avenue, Wakefield Avenue, Sullivans Creek, Dickson Centre, Daramalan Junior, St. Brigid 's Church, Kurrajong]
+time used: 13.00 seconds.
+Missed: Dickson, ACT, Dickson Baptist Church, Lyneham, Queanbeyan
+Error: some content is not processed!

@@ -1,0 +1,7 @@
+1. "SENTENCE" said by some body won't be extracted: because "" was treated as unicode in the html language. Any sentences start with unicode is not available.  (fixed)
+
+2. Unicode is not considered in the text extraction
+
+3. How to convert the Opera House to a street name (WIKI?) Involveed too much mannual work if add ""nicknames" to the database.
+
+4.

@@ -1,0 +1,17 @@
+Geo_tagging System
+Geo_tagging is built with java and extend with a Natural Language Processing (Stanfornlp). This program is used to find the Australian location in the web page.
+
+This project has been distributed into three parts. Extract text, natural language processing, builds a database and matches the location with the database.
+
+1.Extract Text. 
+Our team found an open-source called Jsoup. Jsoup is a Java HTML parser library. We used this program to extract the source code and filter it. Then I can get the plain text from a web link. Then,  we save the plain text as a txt file.
+
+2.The second is natural language processing. 
+The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. It supports the most common NLP tasks, such as tokenization and sentence segmentation. We use the txt file as an input of this library. Then this library will search the locations in the plain text.
+
+3.Build database.
+There is a dataset which includes all the physical addresses in Australia called Geocoded National Address File. And there is a python script called GNF-loader which can load the complete G-NAF into Postgres.
+So, our team uses the G-NAF loader to build a database from the G-NAF.
+
+4.Match the location with database
+This program will extract the source code from a web link and filter it. Then save the plain text into the txt file. Then use openNLP to get the location from the plain text. The next step is matching the location with the database which builds by G-NAF loader from G-NAF. Finally, print out all the locations we got and all the coordinates of these locations.

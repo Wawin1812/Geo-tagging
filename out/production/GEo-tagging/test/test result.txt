@@ -1,0 +1,212 @@
+test environment:Windows 7 i5
+number of sample: 30
+
+1.
+Canberra mornings: Tuesday, November 1, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-tuesday-november-1-2016-20161031-gsexc3.html
+Time-consuming: 72483 millisecond
+Number of sentences in paragraph:103
+Number of words in paragraph: 1129
+
+2.
+Canberra mornings: Wednesday, November 2, 2016
+URL:http://www.smh.com.au/act-news/canberra-mornings-wednesday-november-2-2016-20161101-gsfp2y.html
+Time-consuming: 106931 millisecond
+Number of sentences in paragraph: 105
+Number of words in paragraph: 1163
+
+3.
+Canberra mornings: Thursday, November 3, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-thursday-november-3-2016-20161102-gsglj1.html
+Time-consuming: 72013 millisecond
+Number of sentences in paragraph: 108
+Number of words in paragraph: 1265
+
+4.
+Canberra mornings: Friday, November 4, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-friday-november-4-2016-20161103-gshife.html
+Time-consuming: 74742 millisecond
+Number of sentences in paragraph: 111
+Number of words in paragraph: 1308
+
+5.
+Canberra mornings: Monday, November 7, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-monday-november-7-2016-20161106-gsj7mc.html
+Time-consuming: 72730 millisecond
+Number of sentences in paragraph: 100
+Number of words in paragraph: 1099
+
+6.
+Canberra mornings: Tuesday, November 8, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-tuesday-november-8-2016-20161107-gsjys3.html
+Time-consuming: 69868 millisecond
+Number of sentences in paragraph: 103
+Number of words in paragraph: 1146
+
+7.
+Canberra mornings: Wednesday, November 9, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-wednesday-november-9-2016-20161108-gsku55.html
+Time-consuming: 71283 millisecond
+Number of sentences in paragraph: 102
+Number of words in paragraph: 1106
+
+8.
+Canberra mornings: Thursday, November 10, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-thursday-november-10-2016-20161109-gslpug.html
+Time-consuming: 71923 millisecond
+Number of sentences in paragraph: 109
+Number of words in paragraph: 1315
+
+9.
+Canberra mornings: Friday, November 11, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-friday-november-11-2016-20161110-gsmoxd.html
+Time-consuming: 77304 millisecond
+Number of sentences in paragraph: 108
+Number of words in paragraph: 1207
+
+10.
+Canberra mornings: Monday, November 14, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-monday-november-14-2016-20161113-gsod21.html
+Time-consuming: 70989 millisecond
+Number of sentences in paragraph: 102
+Number of words in paragraph: 1119
+
+11.
+Canberra mornings: Tuesday, November 15, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-tuesday-november-15-2016-20161114-gsomjz.html
+Time-consuming: 67019 millisecond
+Number of sentences in paragraph: 103
+Number of words in paragraph: 1123
+
+12.
+Canberra mornings: Wednesday, November 16, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-wednesday-november-16-2016-20161115-gspgx8.html
+Time-consuming: 66129 millisecond
+Number of sentences in paragraph: 104
+Number of words in paragraph: 1136
+
+13.
+Canberra mornings: Thursday, November 17, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-thursday-november-17-2016-20161116-gsqi37.html
+Time-consuming: 64136 millisecond
+Number of sentences in paragraph: 103
+Number of words in paragraph: 1122
+
+14.
+Canberra mornings: Friday, November 18, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-friday-november-18-2016-20161117-gsrb57.html
+Time-consuming: 74937 millisecond
+Number of sentences in paragraph: 104
+Number of words in paragraph: 1167
+
+15.
+Canberra mornings: Monday, November 21, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-monday-november-21-2016-20161120-gstaak.html
+Time-consuming: 65649 millisecond
+Number of sentences in paragraph: 100
+Number of words in paragraph: 1093
+
+16.
+Canberra mornings: Tuesday, November 22, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-tuesday-november-22-2016-20161121-gsug3v.html
+Time-consuming: 66101 millisecond
+Number of sentences in paragraph: 103
+Number of words in paragraph: 1163
+
+17.
+Canberra mornings: Wednesday, November 23, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-wednesday-november-23-2016-20161122-gsvaie.html
+Time-consuming: 68575 millisecond
+Number of sentences in paragraph: 107
+Number of words in paragraph: 1262
+
+18.
+Canberra mornings: Thursday, November 24, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-thursday-november-24-2016-20161123-gsvjd4.html
+Time-consuming: 73591 millisecond
+Number of sentences in paragraph: 113
+Number of words in paragraph: 1350
+
+19.
+Canberra mornings: Friday, November 25, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-friday-november-25-2016-20161124-gswi5o.html
+Time-consuming: 70116 millisecond
+Number of sentences in paragraph: 109
+Number of words in paragraph: 1270
+
+20.
+Canberra mornings: Monday, November 28, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-monday-november-28-2016-20161127-gsyrdf.html
+Time-consuming: 69795 millisecond
+Number of sentences in paragraph: 99
+Number of words in paragraph: 1062
+
+21.
+Canberra mornings: Tuesday, November 29, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-tuesday-november-29-2016-20161128-gszc17.html
+Time-consuming: 69755 millisecond
+Number of sentences in paragraph: 104
+Number of words in paragraph: 1287
+
+22.
+Canberra mornings: Wednesday, November 30, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-wednesday-november-30-2016-20161129-gt07qu.html
+Time-consuming: 66963 millisecond
+Number of sentences in paragraph: 104
+Number of words in paragraph: 1269
+
+23.
+Canberra mornings: Thursday, December 1, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-thursday-december-1-2016-20161130-gt148s.html
+Time-consuming: 68376 millisecond
+Number of sentences in paragraph: 103
+Number of words in paragraph: 1154
+
+24.
+Canberra mornings: Friday, December 2, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-friday-december-2-2016-20161201-gt25oq.html
+Time-consuming: 65950 millisecond
+Number of sentences in paragraph: 100
+Number of words in paragraph: 1078
+
+25.
+Canberra mornings: Monday, December 5, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-monday-december-5-2016-20161204-gt3pw5.html
+Time-consuming: 63605 millisecond
+Number of sentences in paragraph: 101
+Number of words in paragraph: 1143
+
+26.
+Canberra mornings: Tuesday, December 6, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-tuesday-december-6-2016-20161204-gt3w2g.html
+Time-consuming: 62987 millisecond
+Number of sentences in paragraph: 100
+Number of words in paragraph: 1112
+
+27.
+Canberra mornings: Wednesday, December 7, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-wednesday-december-7-2016-20161206-gt52l2.html
+Time-consuming: 65460 millisecond
+Number of sentences in paragraph: 100
+Number of words in paragraph: 1054
+
+28.
+Canberra mornings: Thursday, December 8, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-thursday-december-7-2016-20161207-gt5ywh.html
+Time-consuming: 74272 millisecond
+Number of sentences in paragraph: 110
+Number of words in paragraph: 1317
+
+29.
+Canberra mornings: Friday, December 9, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-friday-december-9-2016-20161208-gt6pef.html
+Time-consuming: 70953 millisecond
+Number of sentences in paragraph: 110
+Number of words in paragraph: 1261
+
+30.
+Canberra mornings: Monday, December 12, 2016
+URL:http://www.canberratimes.com.au/act-news/canberra-mornings-monday-december-12-2016-20161211-gt8pu8.html
+Time-consuming: 66137 millisecond
+Number of sentences in paragraph: 106
+Number of words in paragraph: 1290

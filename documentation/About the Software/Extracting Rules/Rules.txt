@@ -1,0 +1,10 @@
+1. What is a sentence?
+A sentence means the first word starts with the capital letter, and ends with one of the punctuations [!, ?, :, .].
+
+2. What is a paragraph?
+Paragraph means a result(chaos combination of words and sentences) got from an html webpage.
+
+3. How to measure the quality of the software?
+Testing. Record the time used, the amount of error happens(compare with the humantest of a set of the same webpages).
+
+   
